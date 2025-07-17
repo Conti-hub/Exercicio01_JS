@@ -1,11 +1,4 @@
-<head>
-    <meta charset="UTF-8" />
-    <link rel="stylesheet" href="./main.css" />
-</head>
-<body>
-    <div>
-        <h1>Exercício</h1>
-        <h2>Módulo 7</h2>
+
     <form id="form">
         <input type="number" id="numberA" required placeholder=" A" />
         <input type="number" id="numberB" required placeholder=" B" />
@@ -13,5 +6,4 @@
         
     </form>
     <script src="./main.js"></script>
-    </div>
-</body>
+  
