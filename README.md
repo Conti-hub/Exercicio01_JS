@@ -1,6 +1,5 @@
 <head>
     <meta charset="UTF-8" />
-    <title>Formulario</title>
     <link rel="stylesheet" href="./main.css" />
 </head>
 <body>
